@@ -1,16 +1,108 @@
-# customer_ui
+# 👤 Customer UI – Flutter App Interface
 
-A new Flutter project.
+### 👨‍💻 Built by Sereyodam
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📌 About This Project
 
-A few resources to get you started if this is your first Flutter project:
+**Customer UI** is a **Flutter-based mobile application interface** designed to represent the customer-side experience of an application.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+This project focuses on building a clean and modern **user interface for customer interactions**, making it a strong foundation for future full-stack mobile applications.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🚀 Key Features
+
+* 📱 Customer-focused UI design
+* 🎨 Clean and modern interface
+* ⚡ Smooth performance with Flutter
+* 🌐 Cross-platform support (Android, iOS, Web)
+
+---
+
+## 🛠️ Tech Stack
+
+* 💙 **Flutter (Dart)**
+* 🎯 **Material UI**
+
+---
+
+## 📂 Project Structure
+
+```
+/lib       → Main application logic
+/android   → Android configuration
+/ios       → iOS configuration
+/web       → Web support
+/windows   → Windows support
+/macos     → macOS support
+/linux     → Linux support
+/test      → Testing
+/assets    → Static resources
+```
+
+---
+
+## ⚙️ Getting Started
+
+### 1. Install Flutter
+
+👉 [https://docs.flutter.dev/get-started/install](https://docs.flutter.dev/get-started/install)
+
+### 2. Install dependencies
+
+```bash
+flutter pub get
+```
+
+### 3. Run the app
+
+```bash
+flutter run
+```
+
+---
+
+## ▶️ Run on Specific Platforms
+
+```bash
+flutter run -d chrome
+flutter run -d android
+flutter run -d ios
+```
+
+---
+
+## 🎯 Purpose
+
+* Build a **customer-facing mobile UI**
+* Practice Flutter frontend development
+* Prepare for integration with backend services
+
+---
+
+## 📈 Future Improvements
+
+* 🔐 Authentication system
+* 📦 Order / service management
+* 📊 Dashboard features
+* 🌐 API integration
+
+---
+
+## ⚠️ Notes
+
+* This is a **frontend/UI project**
+* No backend or database integration yet
+
+---
+
+## 📫 Contact
+
+* GitHub: [https://github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+* Email: [sereyodamc011@gmail.com](mailto:sereyodamc011@gmail.com)
+
+---
+
+⭐ *Designing user-friendly mobile interfaces for real-world applications.*
